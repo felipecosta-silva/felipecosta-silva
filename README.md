@@ -15,8 +15,8 @@
 <img width=20  src="https://user-images.githubusercontent.com/15041151/93623658-7248ec80-f9b5-11ea-94b2-60f7f89b0dec.png">
 </a>
 
-</br>
-</br>
+<br>
+<br>
 
 <a  href="https://felipecosta-silva.github.io/"  target="_blank">
 <img  align='right'  width=280  src="https://user-images.githubusercontent.com/15041151/93925004-ddfbc400-fceb-11ea-856b-564b73af4792.png">
@@ -41,8 +41,8 @@ At some point in my life, I was a freehand designer. I like **interact**, **help
 
 I like **learning new things**, and I am always open to **new knowledge**, after all, we will never know everything.
 
-</br>
-</br>
+<br>
+<br>
 
 ## :computer: Technologies and Tools
 
@@ -52,8 +52,8 @@ I like **learning new things**, and I am always open to **new knowledge**, after
 
 - Studying: <img width=20 src="https://user-images.githubusercontent.com/15041151/93638829-63baff00-f9ce-11ea-82bf-cf5e0f5a584f.png"> <img width=20  src="https://user-images.githubusercontent.com/15041151/93639300-27d46980-f9cf-11ea-8f6d-a4a5ae3c710d.png"> <img width=20  src="https://user-images.githubusercontent.com/15041151/93887951-b7269900-fcbd-11ea-90eb-55b65e5f8060.png"> <img width=25 src="https://user-images.githubusercontent.com/15041151/93779921-e249b380-fbfd-11ea-9db5-ce1c174473cb.png"> <img width=25  src="https://user-images.githubusercontent.com/15041151/93638825-6289d200-f9ce-11ea-98d6-3803085fb436.png">
 
-</br>
-</br>
+<br>
+<br>
 
 
 ## :construction: Some Projects
@@ -68,7 +68,7 @@ I like **learning new things**, and I am always open to **new knowledge**, after
 <img width=250  src="https://user-images.githubusercontent.com/15041151/94052962-12d14f00-fdb0-11ea-8eb4-7d1a4621e2a4.png">
 </a>
 
-</br>
-</br>
+<br>
+<br>
 
-⭐️ From [FelipeCosta](https://felipecosta-silva.github.io/)
+⭐️ From [Felipe Costa](https://felipecosta-silva.github.io/)
