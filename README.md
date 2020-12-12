@@ -2,24 +2,35 @@
  👋 Hello developer friends,
 </h1>
 
-<a  href="https://www.linkedin.com/in/felipe-costa-087ab7161/"  target="_blank">
-<img width=20  src="https://user-images.githubusercontent.com/15041151/93623817-b3d99780-f9b5-11ea-9064-ce6fecf9ed94.png">
-</a>
-<a  href="https://www.instagram.com/mauricio.romagnoli/"  target="_blank">
-<img width=20  src="https://user-images.githubusercontent.com/15041151/93623430-1d0cdb00-f9b5-11ea-91d3-70cdf88f519b.png">
-</a>
-<a  href="mailto:felipecostati@gmail.com"  target="_blank">
-<img width=20  src="https://user-images.githubusercontent.com/15041151/93623544-49285c00-f9b5-11ea-8641-bbd4be6eb7a7.png">
-</a>
-<a  href="https://api.whatsapp.com/send?phone=+5581995236005"  target="_blank">
-<img width=20  src="https://user-images.githubusercontent.com/15041151/93623658-7248ec80-f9b5-11ea-94b2-60f7f89b0dec.png">
-</a>
+<p align="center">
+    <a  href="https://www.linkedin.com/in/felipe-costa-087ab7161/"  target="_blank">
+        <img src="https://user-images.githubusercontent.com/15041151/93623817-b3d99780-f9b5-11ea-9064-ce6fecf9ed94.png" height="30" width="30">
+    </a>
+    <a  href="https://www.instagram.com/mauricio.romagnoli/"  target="_blank">
+        <img src="https://user-images.githubusercontent.com/15041151/93623430-1d0cdb00-f9b5-11ea-91d3-70cdf88f519b.png" height="30" width="30">
+    </a>
+    <a  href="mailto:felipecostati@gmail.com"  target="_blank">
+        <img src="https://user-images.githubusercontent.com/15041151/93623544-49285c00-f9b5-11ea-8641-bbd4be6eb7a7.png" height="30" width="30">
+    </a>
+    <a  href="https://api.whatsapp.com/send?phone=+5581995236005"  target="_blank">
+        <img src="https://user-images.githubusercontent.com/15041151/93623658-7248ec80-f9b5-11ea-94b2-60f7f89b0dec.png" height="30" width="30">
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecosta-silva&langs_count=10&theme=tokyonight&layout=compact" alt="Felipe Costa :: Top Langs" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipecosta-silva&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffb000&icon_color=785ef0&text_color=ffffff&bg_color=000000" alt="devSouvik's Github Stats">
+</p>
+
 
 <br>
 <br>
 
 <a  href="https://felipecosta-silva.github.io/"  target="_blank">
-<img  align='right'  width=280  src="https://user-images.githubusercontent.com/15041151/93925004-ddfbc400-fceb-11ea-856b-564b73af4792.png">
+    <img  align='right'  width=280  src="https://user-images.githubusercontent.com/15041151/93925004-ddfbc400-fceb-11ea-856b-564b73af4792.png">
 </a>
 
 I'm **Felipe**, I'm **28 years old** and I'm in love with my 👶🏻 and technology.
