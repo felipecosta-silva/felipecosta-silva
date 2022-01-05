@@ -33,6 +33,8 @@
     <img  align='right'  width=280  src="https://user-images.githubusercontent.com/15041151/93925004-ddfbc400-fceb-11ea-856b-564b73af4792.png">
 </a>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.felipecosta-silva)                    
+
 I'm **Felipe**, I'm **28 years old** and I'm in love with my 👶🏻 and technology.
 I have a degree in **Computer Science** 🎓 and an enthusiast of **programming**.
 <br>
